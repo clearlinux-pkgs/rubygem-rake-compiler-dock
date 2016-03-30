@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rake-compiler-dock
 Version  : 0.4.3
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/rake-compiler-dock-0.4.3.gem
 Source0  : https://rubygems.org/downloads/rake-compiler-dock-0.4.3.gem
 Summary  : No detailed summary available
@@ -65,71 +65,33 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/rake-compiler-dock-0.4.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Colors/cdesc-Colors.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Colors/colored-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Colors/disable_colors-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Colors/enable_colors-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_avail%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_init-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_init_ok%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_start-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_start_has_env%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_start_ok%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/b2d_version-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/cdesc-DockerCheck.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/docker_client_avail%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/docker_version-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/help_text-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/io-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/ok%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerCheck/print_help_text-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/DockerIsNotAvailable/cdesc-DockerIsNotAvailable.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/cdesc-Starter.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/check_docker-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/exec-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/image_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/make_valid_group_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/make_valid_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/make_valid_path-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/make_valid_user_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/sh-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/Starter/verbose_flag-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/cdesc-RakeCompilerDock.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/exec-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/exec-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/image_name-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/image_name-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/sh-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/RakeCompilerDock/sh-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/rake-compiler-dock-0.4.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/.gitignore
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/Dockerfile
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/Gemfile
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/History.md
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/LICENSE.txt
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/Rakefile
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/bin/rake-compiler-dock
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/colors.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/docker_check.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/predefined_user_group.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/starter.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/patches/ruby-1.8.7-p374/nop.patch
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/patches/ruby-1.9.3/no_sendfile.patch
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/patches/ruby-1.9.3/nop.patch
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/patches/ruby-2.2.2/no_sendfile.patch
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/rake-compiler-dock.gemspec
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/src/rake-compiler-without-exts.diff
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/src/runas
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/src/sigfw.c
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/src/strip_wrapper
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/src/sudoers
-/usr/lib64/ruby/gems/2.2.0/gems/rake-compiler-dock-0.4.3/test/test_environment_variables.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/rake-compiler-dock-0.4.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/rake-compiler-dock-0.4.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/.gitignore
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/Dockerfile
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/Gemfile
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/History.md
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/LICENSE.txt
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/Rakefile
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/bin/rake-compiler-dock
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/colors.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/docker_check.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/predefined_user_group.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/starter.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/lib/rake_compiler_dock/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/patches/ruby-1.8.7-p374/nop.patch
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/patches/ruby-1.9.3/no_sendfile.patch
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/patches/ruby-1.9.3/nop.patch
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/patches/ruby-2.2.2/no_sendfile.patch
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/rake-compiler-dock.gemspec
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/src/rake-compiler-without-exts.diff
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/src/runas
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/src/sigfw.c
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/src/strip_wrapper
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/src/sudoers
+/usr/lib64/ruby/gems/2.3.0/gems/rake-compiler-dock-0.4.3/test/test_environment_variables.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/rake-compiler-dock-0.4.3.gemspec
 
 %files bin
 %defattr(-,root,root,-)
